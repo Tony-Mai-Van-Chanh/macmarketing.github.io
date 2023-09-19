@@ -13,3 +13,6 @@
     --_i: 100%;
     transition: .3s, -webkit-mask-size .3s .3s;
   }
+.chanh{
+  background-color: red;
+}
